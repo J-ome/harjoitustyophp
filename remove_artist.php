@@ -1,6 +1,6 @@
 <?php
-
-require "functions.php";
+require "inc/functions.php";
+require "inc/headers.php";
 $dbcon = createDbConnection();
 
 $artist_id = $_GET["ArtistId"]; //executeen se ID jolla haluaa poistaa tiedot

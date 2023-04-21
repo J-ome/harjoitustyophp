@@ -1,6 +1,6 @@
 <?php
+require "inc/functions.php";
 
-require "functions.php";
 
 
 try {

@@ -1,7 +1,7 @@
 <?php
 
-require "functions.php";
-require "headers.php";
+require "inc/functions.php";
+require "inc/headers.php";
 
 $artist_id = 3; //id jolla voi hakea artistia ja hänen kappaleita, en saanut toimimaan $_GET
 //$_GET["ArtistId"];
